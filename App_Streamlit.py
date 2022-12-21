@@ -1,3 +1,4 @@
+pipenv install -r path/to/requirements.txt
 import streamlit as st
 import warnings
 warnings.filterwarnings("ignore")
