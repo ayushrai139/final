@@ -1,4 +1,4 @@
-pipenv install -r path/to/requirements.txt
+pipenv install -r requirements.txt
 import streamlit as st
 import warnings
 warnings.filterwarnings("ignore")
